@@ -1,0 +1,6 @@
+{
+  "GATEWAY_API": "https://dev-api.cxsrecognize.com",
+  "MFE_LINKS": {
+    "PROGRAM_MANAGEMENT_MFE": "https://dev-program-management.cxsrecognize.com"
+  }
+}

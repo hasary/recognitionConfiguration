@@ -1,0 +1,13 @@
+--NEXT: 
+
+
+-- TODO :
+
+Add UI for Approval Reminder and auto release settings
+Add auto complete & MUI Chip to Employee selector Ultimate approver
+Add other missing UI elements from the excel sheet Point Awards - SaaS Checklist:
+https://tharperobbins.sharepoint.com/:x:/r/sites/E2EProductManagement/Shared%20Documents/General/CXS%20Recognize%203.X/Core/Multi-tenancy/Point%20Awards%20(Nominations)/Point%20Awards%20-%20SaaS%20Checklist.xlsx?d=wbaf08a5837994fed8de3bbe8ccccfc57&csf=1&web=1&e=Ce0Mjq&nav=MTVfe0RCRjEyQ0U4LURBNzYtNDk5OC04QUY5LUVCRjZENDg2MTA2NH0
+
+Add loading annimations or skeletons
+Notifications (MUI Snack)
+Add unit tests
